@@ -1,6 +1,3 @@
 [submodule "nc-api"]
 	path = nc-api
 	url = https://github.com/monjurmorshed793/nc-api.git
-[submodule "nc-web"]
-	path = nc-web
-	url = https://github.com/monjurmorshed793/nc-web.git
