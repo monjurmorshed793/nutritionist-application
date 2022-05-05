@@ -1,3 +1,9 @@
 [submodule "nc-api"]
 	path = nc-api
 	url = https://github.com/monjurmorshed793/nc-api.git
+[submodule "nc-admin"]
+	path = nc-admin
+	url = https://github.com/monjurmorshed793/nc-admin.git
+[submodule "nc-libraries"]
+	path = nc-libraries
+	url = https://github.com/monjurmorshed793/nc-libraries.git
